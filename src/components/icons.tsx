@@ -855,6 +855,20 @@ export const FontFamilyCodeIcon = React.memo(
     ),
 );
 
+export const FontFamilyHandDrawnChineseIcon = React.memo(
+  ({ theme }: { theme: "light" | "dark" }) =>
+    createIcon(
+      <>
+        <path
+          fill={iconFillColor(theme)}
+          d="M 290.74 93.24 l 128.02 128.02 l -277.99 277.99 l -114.14 12.6 C 11.35 513.54 -1.56 500.62 0.14 485.34 l 12.7 -114.22 l 277.9 -277.88 z m 207.2 -19.06 l -60.11 -60.11 c -18.75 -18.75 -49.16 -18.75 -67.91 0 l -56.55 56.55 l 128.02 128.02 l 56.55 -56.55 c 18.75 -18.76 18.75 -49.16 0 -67.91 z A 1 1 0 0 0 438 13 M -67 451 A 1 1 0 0 0 91 573"
+        />
+        ,
+      </>,
+      { width: 640, height: 640 },
+    ),
+);
+
 export const TextAlignLeftIcon = React.memo(
   ({ theme }: { theme: "light" | "dark" }) =>
     createIcon(
