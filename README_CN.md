@@ -141,3 +141,9 @@ yarn build
 ### 配置域名和证书
 
 证书可以在https://freessl.cn/ 上申请免费证书
+
+### 参考
+
+[1] [方正徐静蕾行书字体包](http://www.foundertype.com/index.php/FontInfo/index/id/618.html)
+
+[2] [分享一个在线做图的开源工具-excalidraw](https://blog.magicdu.cn/744.html)
