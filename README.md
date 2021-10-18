@@ -14,7 +14,7 @@
   <p>Ask questions or hang out on our <a target="_blank" href="https://discord.gg/UexuTaE">discord.gg/UexuTaE</a>.</p>
 </div>
 
-[英文](README.md) [简体中文](README_CN.md)
+[简体中文](README_CN.md)
 
 ## Try it now
 

@@ -13,7 +13,7 @@
   </p>
   <p>Ask questions or hang out on our <a target="_blank" href="https://discord.gg/UexuTaE">discord.gg/UexuTaE</a>.</p>
 </div>
-在原基础上增加了对中文的支持， **中文字体仅用于个人用途，请勿商用**
+在原基础上增加了对中文的支持， ** 中文字体仅用于个人用途，请勿商用 **
 
 示例： <a href="https://draw.smart-lifestyle.cn"> <img width="540" src="./public/Chinese_support.png" alt="Excalidraw logo: Sketch handrawn like diagrams." /> </a>
 
